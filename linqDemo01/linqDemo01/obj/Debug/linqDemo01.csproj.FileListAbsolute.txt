@@ -1,0 +1,7 @@
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\POO\linqDemo01\linqDemo01\bin\Debug\linqDemo01.exe.config
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\POO\linqDemo01\linqDemo01\bin\Debug\linqDemo01.exe
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\POO\linqDemo01\linqDemo01\bin\Debug\linqDemo01.pdb
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\POO\linqDemo01\linqDemo01\obj\Debug\linqDemo01.csproj.AssemblyReference.cache
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\POO\linqDemo01\linqDemo01\obj\Debug\linqDemo01.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\POO\linqDemo01\linqDemo01\obj\Debug\linqDemo01.exe
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\POO\linqDemo01\linqDemo01\obj\Debug\linqDemo01.pdb
